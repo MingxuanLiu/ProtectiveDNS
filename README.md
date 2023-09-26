@@ -5,7 +5,6 @@ In a nutshell, the idea of the tool is to compare the results returned by resolv
 
 If you are interested in our work, please read our paper **"Understanding the Implementation and Security Implications of Protective DNS Services"** to find more details.
 
-<ins>text</ins>
 
 # Description
 ## Step I. Collecting Domain Names
