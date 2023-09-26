@@ -1,1 +1,6 @@
+Due to the large number of domain name query packets that need to be sent, we uses the efficient scanning tool Xmap for the data collection in this work, which can be foudn in https://github.com/idealeer/xmap.
+
+Please refer to the documentation for more information about the security of this tool: https://github.com/idealeer/xmap/blob/master/INSTALL.md.
+
+Please refer to the documentation for more detailed informaiton about the usage of this tool: https://github.com/idealeer/xmap/blob/master/src/xmap.1.ronn.
 
