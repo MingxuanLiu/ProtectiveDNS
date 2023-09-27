@@ -1,5 +1,5 @@
 # Open Source Description
-Please get a day's worth of processing results at the following link: [download](https://drive.google.com/drive/folders/1O0uhJGb5uUQ-zQD1fvPHbGI66Y6WuhA2?usp=drive_link).
+Please get a day's processing results at the following link: [download](https://drive.google.com/drive/folders/1O0uhJGb5uUQ-zQD1fvPHbGI66Y6WuhA2?usp=drive_link).
 
 
 Due to ethical considerations and to avoid disclosing operations that may have security risks, 
