@@ -49,3 +49,12 @@ Several folders store the result files inside.
 
 ## Identification results (Open Source)
 Finally, we open-source the identification results of sampled 10,000 PDNS resolvers (with no vulnerable ones) mentioned in our paper, which is saved in the <ins>open_source_results</ins>.
+
+### Open Source Description
+Please get a day's processing results at the following link: [download](https://drive.google.com/drive/folders/1O0uhJGb5uUQ-zQD1fvPHbGI66Y6WuhA2?usp=drive_link).
+
+Due to ethical considerations and to avoid disclosing operations that may have security risks, 
+1) we only made one day's results here and only sampled the results of the first 5,050 domains; 
+2) we anonymised IP addresses for non-special purposes;
+3) we filtered out the results of the vulnerable PDNS resolvers and did not make them public.
+
