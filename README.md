@@ -3,7 +3,7 @@
 This tool can be used to discover Protective DNS resolvers on the Internet.
 In a nutshell, the idea of the tool is to compare the results returned by resolver with those in authoritative name servers and Passive DNS. If the inconsistency of the results exceeds a threshold for a resolver, then that resolver is determined to have Protective function enabled.
 
-If you are interested in our work, please read our paper **"Understanding the Implementation and Security Implications of Protective DNS Services, NDSS 2024"** to find more details.
+If you are interested in our work, please read our paper **"[*Understanding the Implementation and Security Implications of Protective DNS Services, NDSS 2024*](https://www.ndss-symposium.org/ndss-paper/understanding-the-implementation-and-security-implications-of-protective-dns-services/)"** to find more details.
 
 
 # Description
